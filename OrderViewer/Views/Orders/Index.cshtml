@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Order>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Orders</title>
+</head>
+<body>
+    <h1>Orders</h1>
+
+    <form method="get" asp-controller="Orders" asp-action="Index">
+    <div class="form-group">
+        <label for="filterDate">Filter by Date:</label>
+        <input type="date" id="filterDate" name="filterDate" class="form-control" value="@ViewData["FilterDate"]" />
+    </div>
+    <button type="submit" class="btn btn-primary">Filter</button>
+</form>
+
+    <table>
+        <thead>
+            <tr>
+                <th class="py-2 px-2">Id</th>
+                <th class="py-2 px-2">Order Date</th>
+                <th class="py-2 px-2">Status</th>
+                <th class="py-2 px-2">Filename</th>
+             
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null)
+            {
+                foreach (var order in Model)
+                {
+                    <tr>
+                        <td class="py-2 px-2">@order.Id</td>
+                        <td class="py-2 px-2">@order.OrderDate</td>
+                        <td class="py-2 px-2">@order.Status</td>
+                        <td class="py-2 px-2">@order.Filename</td>
+                       
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</body>
+</html>
+

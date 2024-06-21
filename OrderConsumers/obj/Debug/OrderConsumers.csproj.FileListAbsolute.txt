@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\OrderSolution\OrderConsumers\bin\Debug\OrderConsumers.exe.config
+C:\Users\Admin\source\repos\OrderSolution\OrderConsumers\bin\Debug\OrderConsumers.exe
+C:\Users\Admin\source\repos\OrderSolution\OrderConsumers\bin\Debug\OrderConsumers.pdb
+C:\Users\Admin\source\repos\OrderSolution\OrderConsumers\bin\Debug\OrdersGenerator.exe
+C:\Users\Admin\source\repos\OrderSolution\OrderConsumers\bin\Debug\OrdersGenerator.pdb
+C:\Users\Admin\source\repos\OrderSolution\OrderConsumers\bin\Debug\OrdersGenerator.exe.config
+C:\Users\Admin\source\repos\OrderSolution\OrderConsumers\obj\Debug\OrderConsumers.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\OrderSolution\OrderConsumers\obj\Debug\OrderConsumers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OrderSolution\OrderConsumers\obj\Debug\OrderCon.9DE93DFF.Up2Date
+C:\Users\Admin\source\repos\OrderSolution\OrderConsumers\obj\Debug\OrderConsumers.exe
+C:\Users\Admin\source\repos\OrderSolution\OrderConsumers\obj\Debug\OrderConsumers.pdb
+C:\Users\Admin\source\repos\OrderSolution\OrderConsumers\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\OrderSolution\OrderConsumers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\OrderSolution\OrderConsumers\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\OrderSolution\OrderConsumers\bin\Debug\EntityFramework.SqlServer.xml

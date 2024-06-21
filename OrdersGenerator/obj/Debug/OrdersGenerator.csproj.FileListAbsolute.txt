@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\OrderSolution\OrdersGenerator\bin\Debug\OrdersGenerator.exe.config
+C:\Users\Admin\source\repos\OrderSolution\OrdersGenerator\bin\Debug\OrdersGenerator.exe
+C:\Users\Admin\source\repos\OrderSolution\OrdersGenerator\bin\Debug\OrdersGenerator.pdb
+C:\Users\Admin\source\repos\OrderSolution\OrdersGenerator\obj\Debug\OrdersGenerator.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\OrderSolution\OrdersGenerator\obj\Debug\OrdersGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OrderSolution\OrdersGenerator\obj\Debug\OrdersGenerator.exe
+C:\Users\Admin\source\repos\OrderSolution\OrdersGenerator\obj\Debug\OrdersGenerator.pdb
+C:\Users\Admin\source\repos\OrderSolution\OrdersGenerator\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\OrderSolution\OrdersGenerator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\OrderSolution\OrdersGenerator\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\OrderSolution\OrdersGenerator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\OrderSolution\OrdersGenerator\obj\Debug\OrdersGe.FB4388BE.Up2Date
